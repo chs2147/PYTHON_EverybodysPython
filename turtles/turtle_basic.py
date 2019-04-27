@@ -1,6 +1,7 @@
 from tkinter import *
 import turtle as t
 
+# moving turtle
 t.shape("turtle")
 t.forward(50)
 t.right(45)
