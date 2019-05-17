@@ -12,8 +12,8 @@ def worker(tid):
             break
 
         print(tid + "I am getting: " + my_item)
-        my_item = '[%s]%s' % (tid, my_item)
-        q.put(my_item)
+        # my_item = '[%s]%s' % (tid, my_item)
+        # q.put(my_item)
 
         q.task_done()
         time.sleep(1)
