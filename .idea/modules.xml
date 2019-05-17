@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/.idea/FrenchWaffleStore.iml" filepath="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/.idea/FrenchWaffleStore.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" filepath="$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" />
     </modules>
   </component>
