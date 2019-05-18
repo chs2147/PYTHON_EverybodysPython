@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecf4dd8-8cde-4751-b010-a7de56392f38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/print_colored/print_colored.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_colored/termcolor_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/order_delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/order_delivery.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/queue/order_delivery.py">
+        <entry file="file://$PROJECT_DIR$/print_colored/print_colored.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-              <folding>
-                <element signature="e#21#33#0" expanded="true" />
-              </folding>
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tutorials/flow_control.py" />
-        <option value="$PROJECT_DIR$/tutorials/while_loop.py" />
         <option value="$PROJECT_DIR$/tutorials/while_loop2.py" />
         <option value="$PROJECT_DIR$/tutorials/while_loop3.py" />
         <option value="$PROJECT_DIR$/tutorials/while_loop4.py" />
@@ -92,6 +88,8 @@
         <option value="$PROJECT_DIR$/queue/sync_queue.py" />
         <option value="$PROJECT_DIR$/queue/produce_consume.py" />
         <option value="$PROJECT_DIR$/queue/order_delivery.py" />
+        <option value="$PROJECT_DIR$/print_colored/termcolor_example.py" />
+        <option value="$PROJECT_DIR$/print_colored/print_colored.py" />
       </list>
     </option>
   </component>
@@ -120,7 +118,11 @@
             <path>
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON_EverybodysPython" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="print_colored" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrenchWaffleStore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
@@ -162,28 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.order_delivery">
-    <configuration name="asyncio_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON_EverybodysPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/asyncio_queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.print_colored">
     <configuration name="order_delivery" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHON_EverybodysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +178,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/order_delivery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_colored" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/print_colored" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_colored/print_colored.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sync_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="termcolor_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHON_EverybodysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/print_colored" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/sync_queue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_colored/termcolor_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,19 +271,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sync_queue" />
-      <item itemvalue="Python.asyncio_queue" />
       <item itemvalue="Python.produce_consume" />
       <item itemvalue="Python.randomize" />
       <item itemvalue="Python.order_delivery" />
+      <item itemvalue="Python.print_colored" />
+      <item itemvalue="Python.termcolor_example" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_colored" />
+        <item itemvalue="Python.termcolor_example" />
         <item itemvalue="Python.order_delivery" />
         <item itemvalue="Python.produce_consume" />
         <item itemvalue="Python.randomize" />
-        <item itemvalue="Python.sync_queue" />
-        <item itemvalue="Python.asyncio_queue" />
       </list>
     </recent_temporary>
   </component>
@@ -429,18 +431,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558138363154</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Initial commit.">
+      <created>1558182045549</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558182045549</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-3" width="1625" height="1025" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14981273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14981273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,20 +470,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorials/while_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/while_loop2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials/while_loop3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -830,11 +825,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/queue/order_delivery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="-1865">
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
           <folding>
             <element signature="e#21#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_colored/termcolor_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_colored/print_colored.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="37" />
         </state>
       </provider>
     </entry>
