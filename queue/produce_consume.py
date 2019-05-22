@@ -3,6 +3,7 @@ import queue
 import threading
 import time
 import random
+import sys
 
 
 def producer(tid):
@@ -49,6 +50,9 @@ def consumer(tid):
     print("%s[%s] Finish meal." % (consumer_indent, tid))
     consumer_stat_dict[tid] = eat_count
 
+
+if not __name__ == '__main__':
+    sys.exit()
 
 # define number of threads for each role
 num_of_producers = 5
