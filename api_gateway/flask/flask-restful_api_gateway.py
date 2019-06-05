@@ -1,4 +1,4 @@
-# Flask API Gateway Server with flask-restful
+# Flask API Gateway Server with flask-RESTful
 
 # additional module
 # * flask
