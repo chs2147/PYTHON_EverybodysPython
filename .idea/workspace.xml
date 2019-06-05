@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ecf4dd8-8cde-4751-b010-a7de56392f38" name="Default Changelist" comment="Initial commit.">
-      <change afterPath="$PROJECT_DIR$/http/urllib_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py" afterDir="false" />
+    <list default="true" id="3ecf4dd8-8cde-4751-b010-a7de56392f38" name="Default Changelist" comment="add constants for entropy manager connection information.">
+      <change afterPath="$PROJECT_DIR$/api_gateway/flask/flask-restplus_api_gateway.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,50 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/socket/simple_socket_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-              <folding>
-                <element signature="e#48#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/socket/echo_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="134" column="31" lean-forward="true" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
-              <folding>
-                <element signature="e#32#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,21 +25,28 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>append</find>
+      <find>pop</find>
+      <find>pop(</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" value="develop" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tutorials/fucntion.py" />
-        <option value="$PROJECT_DIR$/tutorials/print.py" />
-        <option value="$PROJECT_DIR$/tutorials/local_global_scopes.py" />
-        <option value="$PROJECT_DIR$/tutorials/local_global_scopes2.py" />
-        <option value="$PROJECT_DIR$/tutorials/local_global_scopes3.py" />
-        <option value="$PROJECT_DIR$/tutorials/guessTheNumber.py" />
-        <option value="$PROJECT_DIR$/tutorials/list2.py" />
-        <option value="$PROJECT_DIR$/tutorials/lsit3.py" />
         <option value="$PROJECT_DIR$/tutorials/list3.py" />
         <option value="$PROJECT_DIR$/tutorials/list.py" />
         <option value="$PROJECT_DIR$/tutorials/string_test.py" />
@@ -106,31 +72,39 @@
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/policy/default_policy.py" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/nexus_app.py" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/cache_config.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties" />
         <option value="$PROJECT_DIR$/socket/echo_server.py" />
         <option value="$PROJECT_DIR$/socket/echo_client.py" />
         <option value="$PROJECT_DIR$/socket/simple_socket_server.py" />
         <option value="$PROJECT_DIR$/queue/asyncio_queue.py" />
         <option value="$PROJECT_DIR$/queue/sync_queue.py" />
-        <option value="$PROJECT_DIR$/queue/produce_consume.py" />
         <option value="$PROJECT_DIR$/queue/order_delivery.py" />
         <option value="$PROJECT_DIR$/print_colored/termcolor_example.py" />
         <option value="$PROJECT_DIR$/print_colored/print_colored.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/common/constants.py" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/nexus/nexus_app.py" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh" />
         <option value="$PROJECT_DIR$/http/urllib_sample.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
+        <option value="$PROJECT_DIR$/queue/produce_consume.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties" />
         <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py" />
+        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" />
+        <option value="$PROJECT_DIR$/api_gateway/flask/flask_api_gateway_humans.py" />
+        <option value="$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py" />
+        <option value="$PROJECT_DIR$/api_gateway/flask/flask-restplus_api_gateway.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="424" />
+    <option name="x" value="517" />
     <option name="y" value="27" />
-    <option name="width" value="1250" />
+    <option name="width" value="1086" />
     <option name="height" value="1023" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -141,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +125,13 @@
             <path>
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON_EverybodysPython" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PYTHON_EverybodysPython" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
@@ -173,12 +152,7 @@
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrenchWaffleStore" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="nexus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrenchWaffleStore" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="stargate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PYTHON_EverybodysPython" type="b2602c69:ProjectViewProjectNode" />
@@ -188,24 +162,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/queue" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyDependenciesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/queue" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app" />
       <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application" />
       <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/common" />
       <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
       <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/queue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,6 +196,90 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.nexus_app">
+    <configuration name="dictionary4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorials" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorials/dictionary4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask-restful_api_gateway" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gateway/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask-restplus_api_gateway" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gateway/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gateway/flask/flask-restplus_api_gateway.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_api_gateway_humans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gateway/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gateway/flask/flask_api_gateway_humans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="nexus_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FrenchWaffleStore" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,81 +301,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_colored" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON_EverybodysPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/print_colored" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_colored/print_colored.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="termcolor_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON_EverybodysPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/print_colored" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_colored/termcolor_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="urllib_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON_EverybodysPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/http/urllib_sample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.print_colored" />
-      <item itemvalue="Python.termcolor_example" />
       <item itemvalue="Python.nexus_app" />
-      <item itemvalue="Python.urllib_sample" />
+      <item itemvalue="Python.dictionary4" />
+      <item itemvalue="Python.flask_api_gateway_humans" />
+      <item itemvalue="Python.flask-restful_api_gateway" />
+      <item itemvalue="Python.flask-restplus_api_gateway" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.flask-restplus_api_gateway" />
+        <item itemvalue="Python.flask-restful_api_gateway" />
+        <item itemvalue="Python.flask_api_gateway_humans" />
+        <item itemvalue="Python.dictionary4" />
         <item itemvalue="Python.nexus_app" />
-        <item itemvalue="Python.urllib_sample" />
-        <item itemvalue="Python.print_colored" />
-        <item itemvalue="Python.termcolor_example" />
       </list>
     </recent_temporary>
   </component>
@@ -330,13 +328,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556155459475</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Test coding updated.">
-      <created>1556155763035</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1556155763035</updated>
     </task>
     <task id="LOCAL-00002" summary="Initial turtle example created.">
       <created>1556368549682</created>
@@ -506,7 +497,182 @@
       <option name="project" value="LOCAL" />
       <updated>1558226484263</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Initial commit.">
+      <created>1558340285235</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558340285236</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Initial commit.">
+      <created>1558340317765</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558340317765</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Initial commit.">
+      <created>1558347804848</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558347804848</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Initial commit.">
+      <created>1558440423442</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558440423442</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Initial commit.">
+      <created>1558442043621</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558442043621</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Initial commit.">
+      <created>1558487764630</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558487764630</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Initial commit.">
+      <created>1558508376122</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558508376122</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Initial commit.">
+      <created>1558512780061</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558512780061</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add type hint on all functions.">
+      <created>1558615466117</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558615466117</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Initial commit.">
+      <created>1558620230553</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1558620230553</updated>
+    </task>
+    <task id="LOCAL-00036" summary="simple internal cache manager implemented.">
+      <created>1558680478797</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680478797</updated>
+    </task>
+    <task id="LOCAL-00037" summary="constants for 'cache-type' changed.">
+      <created>1558680550581</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680550581</updated>
+    </task>
+    <task id="LOCAL-00038" summary="constants for 'cache-type' changed.">
+      <created>1558680591106</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680591106</updated>
+    </task>
+    <task id="LOCAL-00039" summary="constants for 'cache-type' changed.">
+      <created>1558680631225</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680631225</updated>
+    </task>
+    <task id="LOCAL-00040" summary="sample application disabled.">
+      <created>1558680765690</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680765690</updated>
+    </task>
+    <task id="LOCAL-00041" summary="minor changes.">
+      <created>1558680918168</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1558680918168</updated>
+    </task>
+    <task id="LOCAL-00042" summary="cache-probe works with PylonCache">
+      <created>1558763325769</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558763325769</updated>
+    </task>
+    <task id="LOCAL-00043" summary="cache-policy changed for testing big scale">
+      <created>1558794304057</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558794304057</updated>
+    </task>
+    <task id="LOCAL-00044" summary="virtual cache-consumer added for testing pylon-cache">
+      <created>1558794413626</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558794413626</updated>
+    </task>
+    <task id="LOCAL-00045" summary="calculate cache amount(defined on policy) to initialize bucket amount">
+      <created>1558868479837</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1558868479837</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add constants for entropy manager connection information.">
+      <created>1558869816514</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1558869816514</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add constants for entropy manager connection information.">
+      <created>1558943484807</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1558943484807</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Initial commit.">
+      <created>1558943678116</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1558943678116</updated>
+    </task>
+    <task id="LOCAL-00049" summary="ligth-wegith gateway package created">
+      <created>1559710342178</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1559710342178</updated>
+    </task>
+    <task id="LOCAL-00050" summary="simple light-weight API gateway package created">
+      <created>1559710698187</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1559710698187</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -519,21 +685,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="424" y="27" width="1250" height="1023" extended-state="0" />
+    <frame x="517" y="27" width="1086" height="1023" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19559902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19379115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298279" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.27181208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298279" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32997763" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.3372503" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -562,66 +728,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test coding updated." />
     <MESSAGE value="Initial turtle example created." />
+    <MESSAGE value="Add type hint on all functions." />
+    <MESSAGE value="simple internal cache manager implemented." />
+    <MESSAGE value="constants for 'cache-type' changed." />
+    <MESSAGE value="sample application disabled." />
+    <MESSAGE value="minor changes." />
+    <MESSAGE value="cache-probe works with PylonCache" />
+    <MESSAGE value="cache-policy changed for testing big scale" />
+    <MESSAGE value="virtual cache-consumer added for testing pylon-cache" />
+    <MESSAGE value="calculate cache amount(defined on policy) to initialize bucket amount" />
+    <MESSAGE value="add constants for entropy manager connection information." />
     <MESSAGE value="Initial commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
+    <MESSAGE value="ligth-wegith gateway package created" />
+    <MESSAGE value="simple light-weight API gateway package created" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple light-weight API gateway package created" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorials/for_loop2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/fucntion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/helloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/local_global_scopes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/local_global_scopes2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/local_global_scopes3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/guessTheNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials/reference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -629,38 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/list3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/list2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="582">
           <caret line="92" column="7" lean-forward="true" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/flow_control.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/dictionary5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -727,47 +821,6 @@
     <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#29#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/echo_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queue/sync_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -795,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/dictionary2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials/dictionary3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -809,37 +855,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials/dictionary4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queue/produce_consume.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-488">
-          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-          <folding>
-            <element signature="e#21#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queue/order_delivery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1865">
-          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
-          <folding>
-            <element signature="e#21#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -853,20 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/print_colored/print_colored.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -877,17 +882,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
+    <entry file="file://$PROJECT_DIR$/queue/produce_consume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#21#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
+    <entry file="file://$PROJECT_DIR$/print_colored/print_colored.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" column="65" lean-forward="true" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/order_delivery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="195" column="7" selection-start-line="195" selection-start-column="7" selection-end-line="196" selection-end-column="14" />
+          <folding>
+            <element signature="e#21#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/dictionary2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/flow_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/for_loop2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/for_loop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtles/turtle_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/list3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/list2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials/dictionary5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/echo_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -898,44 +993,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy">
+    <entry file="file://$PROJECT_DIR$/socket/simple_socket_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1047220" lean-forward="true" selection-start-column="1047220" selection-end-column="1047220" />
+        <state relative-caret-position="-360">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
+    <entry file="file://$PROJECT_DIR$/tutorials/dictionary4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py">
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="134" column="31" lean-forward="true" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#32#42#0" expanded="true" />
+            <element signature="e#22#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/urllib_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/socket/simple_socket_server.py">
+    <entry file="file://$PROJECT_DIR$/../../venv/sanboncat/lib/python3.6/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="191">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
-            <element signature="e#48#61#0" expanded="true" />
+            <element signature="e#96#119#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/flask/flask_api_gateway_humans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#92#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/flask/flask-restplus_api_gateway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#98#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="471" column="88" selection-start-line="471" selection-start-column="88" selection-end-line="471" selection-end-column="88" />
         </state>
       </provider>
     </entry>
