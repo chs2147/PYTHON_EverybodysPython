@@ -1,8 +1,8 @@
-# Flask API Gateway Server with flask-RESTful
+# Flask API Gateway Server with flask_api_gateway-RESTful
 
 # additional module
-# * flask
-# * flask-restful
+# * flask_api_gateway
+# * flask_api_gateway-restful
 
 from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource

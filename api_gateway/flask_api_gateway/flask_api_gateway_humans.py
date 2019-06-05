@@ -1,7 +1,7 @@
 # Flask API Gateway Server with Humans request
 
 # additional module
-# * flask
+# * flask_api_gateway
 # * requests
 
 from flask import Flask

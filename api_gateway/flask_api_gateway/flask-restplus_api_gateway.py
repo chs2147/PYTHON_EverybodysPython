@@ -1,8 +1,8 @@
-# Flask API Gateway Server with flask-RESTplus
+# Flask API Gateway Server with flask_api_gateway-RESTplus
 
 # additional module
-# * flask
-# * flask-restplus
+# * flask_api_gateway
+# * flask_api_gateway-restplus
 
 from flask import Flask
 from flask_restplus import Api, Resource, fields
