@@ -1,82 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ecf4dd8-8cde-4751-b010-a7de56392f38" name="Default Changelist" comment="">
+    <list default="true" id="3ecf4dd8-8cde-4751-b010-a7de56392f38" name="Default Changelist" comment="add connection info for NEXUS lite">
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_EverybodysPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_api_gateway.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_api_gateway.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/request_entropy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/socket/echo_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="16" selection-start-line="2" selection-end-line="31" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3978">
-              <caret line="242" selection-start-line="242" selection-end-line="242" />
-              <folding>
-                <element signature="e#32#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/socket/simple_socket_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-              <folding>
-                <element signature="e#48#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,30 +27,33 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" value="develop" />
+        <entry key="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore" value="develop" />
       </map>
     </option>
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/probe/probe.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/cache.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/default_cache.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/cache-policy.properties" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/constants.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/common/constants.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/common/utility.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/policy/default_policy.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/nexus_app.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/cache_config.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/probe/probe.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/cache.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/default_cache.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/cache-policy.properties" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/constants.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/common/constants.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/common/utility.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/policy/default_policy.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus/nexus_app.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/cache/cache_config.py" />
         <option value="$PROJECT_DIR$/socket/echo_server.py" />
         <option value="$PROJECT_DIR$/socket/echo_client.py" />
         <option value="$PROJECT_DIR$/socket/simple_socket_server.py" />
@@ -126,20 +62,20 @@
         <option value="$PROJECT_DIR$/queue/order_delivery.py" />
         <option value="$PROJECT_DIR$/print_colored/termcolor_example.py" />
         <option value="$PROJECT_DIR$/print_colored/print_colored.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/common/constants.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/nexus/nexus_app.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/common/constants.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/application/nexus/nexus_app.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh" />
         <option value="$PROJECT_DIR$/http/urllib_sample.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
         <option value="$PROJECT_DIR$/queue/produce_consume.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py" />
         <option value="$PROJECT_DIR$/api_gateway/flask/flask_api_gateway_humans.py" />
         <option value="$PROJECT_DIR$/api_gateway/flask/flask-restplus_api_gateway.py" />
         <option value="$PROJECT_DIR$/api_gateway/flask/flask-restful_api_gateway.py" />
@@ -147,20 +83,23 @@
         <option value="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_put_method.py" />
         <option value="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_model_dao.py" />
         <option value="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_api_gateway.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/environment_config.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/instance.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server/instance.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/predefined_tokens.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/error_code.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus_lite.sh" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py" />
-        <option value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/request_entropy.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/environment_config.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/instance.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server/instance.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/predefined_tokens.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/error_code.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus_lite.sh" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py" />
+        <option value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/request_entropy.py" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="636" />
@@ -168,6 +107,7 @@
     <option name="width" value="1363" />
     <option name="height" value="1023" />
   </component>
+  <component name="ProjectId" id="22b2gsDIlbcKmqSTORWtXOA9lID" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -190,40 +130,32 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server" />
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app" />
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/application" />
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/common" />
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/application" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/common" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
-      <recent name="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+      <recent name="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus" />
       <recent name="$PROJECT_DIR$/queue" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="flask-restplus_api_gateway (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.echo_client">
+    <configuration name="echo_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_EverybodysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,32 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gateway/flask_api_gateway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socket" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gateway/flask_api_gateway/flask-restplus_api_gateway.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="instance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FrenchWaffleStore" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server/instance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socket/echo_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,11 +226,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_socket_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_EverybodysPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socket/simple_socket_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,22 +261,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.flask-restplus_api_gateway (1)" />
-      <item itemvalue="Python.instance" />
       <item itemvalue="Python.request_entropy_model" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.nexus_lite" />
+      <item itemvalue="Python.simple_socket_server" />
+      <item itemvalue="Python.echo_client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.echo_client" />
+        <item itemvalue="Python.simple_socket_server" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.nexus_lite" />
         <item itemvalue="Python.request_entropy_model" />
-        <item itemvalue="Python.instance" />
-        <item itemvalue="Python.flask-restplus_api_gateway (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -753,6 +686,9 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore" />
+    </ignored-roots>
     <MESSAGE value="Test coding updated." />
     <MESSAGE value="Initial turtle example created." />
     <MESSAGE value="Add type hint on all functions." />
@@ -802,17 +738,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/__init__.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/pip/_internal/req/req_file.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/pip/_internal/req/req_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="241" column="14" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/sample.entropy" />
     <entry file="file://$PROJECT_DIR$/queue/produce_consume.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
@@ -823,7 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/probe/probe.py" />
     <entry file="file://$PROJECT_DIR$/print_colored/print_colored.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -899,21 +835,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/policy/default_policy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-309">
           <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/cache/cache_manager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-310">
           <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -950,7 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../venv/sanboncat/lib/python3.6/site-packages/flask/app.py">
+    <entry file="file://$USER_HOME$/venv/sanboncat/lib/python3.6/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="1831" selection-start-line="1831" selection-end-line="1831" />
@@ -987,21 +923,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask_restplus/marshalling.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask_restplus/marshalling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask/app.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="1831" selection-start-line="1831" selection-end-line="1831" />
@@ -1015,14 +951,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask_restplus/fields.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/venv/lib/python3.6/site-packages/flask_restplus/fields.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="159" selection-start-line="159" selection-end-line="159" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server/instance.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/server/instance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="23" />
@@ -1032,7 +968,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/models/request_entropy_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -1042,42 +978,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/error_code.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/environments.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/environments.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/demo_resources.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/demo_resources.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/policy.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/resources/entropy-cache.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/utility.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="65" lean-forward="true" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
@@ -1094,7 +1030,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="296" column="28" lean-forward="true" selection-start-line="296" selection-start-column="28" selection-end-line="296" selection-end-column="28" />
@@ -1104,14 +1040,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus_lite.sh">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/nexus_lite.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/request_entropy.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/resources/request_entropy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
@@ -1121,7 +1057,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/stargate/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
@@ -1135,7 +1071,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/nexus/nexus_lite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3978">
           <caret line="242" selection-start-line="242" selection-end-line="242" />
@@ -1155,7 +1091,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
+    <entry file="file://$USER_HOME$/python-workspace-FrenchWAFFLE/FrenchWaffleStore/app/common/constants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
